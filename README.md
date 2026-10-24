@@ -18,7 +18,7 @@ As a Cyber Security GRC Analyst, I was tasked to presents findings from the clie
 | -----| ----------- |
 | Company Niche | A Bioengineering Scientific Research Company |
 |  Product | Specializes in bioengineering scientific research, products and services |
-| Scope   |  Present recommendations and design of an End-to-End Cyber Security Program to improve Security Posture Using NIST Cybersecurity Framework NIST CSF 800 -53 |
+| Scope   |  Deliver a security maturity assessment, present recommendations and design of an End-to-End Cyber Security Program to improve Security Posture Using NIST Cybersecurity Framework NIST CSF 800 -53 |
 | Customer Demand | Prospective clients require A Resilience Cyber security posture as a condition for products and service delivery  |
 
 ## What I Delivered:
