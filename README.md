@@ -23,17 +23,22 @@ As a Cyber Security GRC Analyst, I was tasked to presents findings from the clie
 
 ## What I Delivered:
 
-|  Caterory | Matching NIST CSF to Security Controls Deficiencies | 
+|  Documents/Outputs | Deliverables | 
+| -------------------------| ------------| 
+| Document 1         | Recommendation for Cyber Security Posture Improvement        |    
+| Document 2       | Current Security Control Deficiencies Identification using NIST CSF 800 -53  |
+| ISO/IEC 27001:2022 Clause 7                 | Competence Management & Awareness Record |
+| ISO/IEC 27001:2022 Clause 8                 | Control Evidence Tracker |
+
+
+|  Categories | Deliverables/Matching NIST CSF to Security Controls Deficiencies Under | 
 | -------------------------| ------------| 
 | Category 1                 | Identify | 
 | Category 2             | Protect | 
 | Category 3        | Detect | 
 | Category 4         | Respond | 
 | Category 5   | Recover | 
-| ISO/IEC 27001:2022 Clause 6.2              | ISMS Objectives        |    
-| ISO/IEC 27001:2022 Clause 6.1.3              | Asset Register, Risk Assessment & Statement of Applicability |
-| ISO/IEC 27001:2022 Clause 7                 | Competence Management & Awareness Record |
-| ISO/IEC 27001:2022 Clause 8                 | Control Evidence Tracker |
+
 | ISO/IEC 27001:2022 Clause 9                 | Management Meeting Agenda & Minutes |
 | ISO/IEC 27001:2022 Clause 9.1               | Monitoring, Measurement, Analysis and Evaluation Procedures |
 | ISO/IEC 27001:2022 Clause 9.2               | Internal Audit Plan |
