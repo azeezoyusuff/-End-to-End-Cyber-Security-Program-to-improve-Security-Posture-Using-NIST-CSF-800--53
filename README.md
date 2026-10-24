@@ -2,34 +2,34 @@
 
 ## Purpose
 
-To Design an End-to-End Cyber Security Program for A Scientific research company to improve Security Posture Using NIST Cybersecurity Framework NIST 800 -53
+To Design an End-to-End Cyber Security Program and present Recommendations for A Bioengineering Scientific Research company to improve Security Posture Using NIST Cybersecurity Framework NIST CSF 800 -53
 
 ## Goal
 
-To present a roadmap for oscorp to uplift their cyber security posture, based on current deficiencies identified in Oscorp’s cyber security controls
+To present recommendations and a roadmap to uplift cyber security posture, based on current deficiencies identified in client’s cyber security controls
 
 ## My Role
 
-As a Cyber Security GRC Analyst, I was tasked to presents findings from Oscorp’s NIST CSF cyber security program spreadsheet on July 2, 2026. Additionally, I was tasked to present a roadmap for oscorp to uplift their cyber security posture, based on current deficiencies identified in Oscorp’s cyber security controls, and present recommendations based on the NIST assessment conducted, highlighting key areas of improvements and prioritizes recommendations in order of importance.
+As a Cyber Security GRC Analyst, I was tasked to presents findings from the client’s NIST CSF cyber security program spreadsheet on July 2, 2026. Additionally, I was tasked to present a roadmap to uplift their cyber security posture, based on current deficiencies identified in the client’s cyber security controls, and present recommendations based on the NIST assessment conducted, highlighting key areas of improvements and prioritizes recommendations in order of importance.
 
 ## Client Information
 
 | Item | Information |
 | -----| ----------- |
-| Sector | A Scientific Research Company|
-|  Product | A SaaS platform offering marketing automation tools for small businesses. The application is hosted on Amazon AWS |
-| Scope   |  Design of an End-to-End Cyber Security Program to improve Security Posture Using NIST Cybersecurity Framework NIST 800 -53 |
-| Customer Demand | Prospective clients require ISO 27001 certification as a condition for procurement
+| Company Niche | A Bioengineering Scientific Research Company |
+|  Product | Specializes in bioengineering scientific research, products and services |
+| Scope   |  Present recommendations and design of an End-to-End Cyber Security Program to improve Security Posture Using NIST Cybersecurity Framework NIST CSF 800 -53 |
+| Customer Demand | Prospective clients require A Resilience Cyber security posture as a condition for products and service delivery  |
 
 ## What I Delivered:
 
-| Matching ISO/IEC 27001:2022 Clause/Annex A | Deliverables | 
+|  Caterory | Matching NIST CSF to Security Controls Deficiencies | 
 | -------------------------| ------------| 
-| ISO/IEC 27001:2022 Clause 4                 | ISMS Scope  | 
-| ISO/IEC 27001:2022 Clause 5.2              | ISMS Policy | 
-| ISO/IEC 27001:2022 Clause 5.3              | ISMS Roles & Responsibilities | 
-| ISO/IEC 27001:2022 Clause 6.1.2            | Risk Assessment Process  | 
-| ISO/IEC 27001:2022 Clause 6.1.3            | Risk Treatment Process | 
+| Category 1                 | Identify | 
+| Category 2             | Protect | 
+| Category 3        | Detect | 
+| Category 4         | Respond | 
+| Category 5   | Recover | 
 | ISO/IEC 27001:2022 Clause 6.2              | ISMS Objectives        |    
 | ISO/IEC 27001:2022 Clause 6.1.3              | Asset Register, Risk Assessment & Statement of Applicability |
 | ISO/IEC 27001:2022 Clause 7                 | Competence Management & Awareness Record |
