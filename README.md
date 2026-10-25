@@ -45,4 +45,4 @@ As a Cyber Security GRC Analyst, I was tasked to presents findings from the clie
 
 ## Achievement
 
-###### 2. This resulted to A resilient cyber security posture and increased sales by 37% and customer trust by 35%
+###### 1. This resulted to A resilient cyber security posture and increased sales by 37% and customer trust by 35%
