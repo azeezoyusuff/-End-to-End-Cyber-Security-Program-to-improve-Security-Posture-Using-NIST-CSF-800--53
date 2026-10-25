@@ -40,9 +40,6 @@ As a Cyber Security GRC Analyst, I was tasked to presents findings from the clie
 | Category 5   | Recover | 
 
 
-###### 1. ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability and all core policy documents.
-
-
 [Visit the Project Link here for all the above-mentioned deliverables](https://github.com/azeezoyusuff/-End-to-End-Cyber-Security-Program-to-improve-Security-Posture-Using-NIST-CSF-800--53/tree/main/SECURITY_MATURITY_ASSESSMENT_USING_NIST_CSF)
 
 
