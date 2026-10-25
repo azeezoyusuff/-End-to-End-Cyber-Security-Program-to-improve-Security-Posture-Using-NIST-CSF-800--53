@@ -25,10 +25,9 @@ As a Cyber Security GRC Analyst, I was tasked to presents findings from the clie
 
 |  Documents/Outputs | Deliverables | 
 | -------------------------| ------------| 
-| Document 1         | Recommendation for Cyber Security Posture Improvement        |    
-| Document 2       | Current Security Control Deficiencies Identification using NIST CSF 800 -53  |
-| ISO/IEC 27001:2022 Clause 7                 | Competence Management & Awareness Record |
-| ISO/IEC 27001:2022 Clause 8                 | Control Evidence Tracker |
+| Recommendation for Cyber Security Posture Improvement         | A Roadmap for Cyber Security Posture Improvement        |    
+| Security Maturity Assessment | Current Security Control Deficiencies Identification using NIST CSF 800 -53  |
+| Current Cybersecurity Controls   | Client Security situation and exisiting controls |
 
 
 |  Categories | Deliverables/Matching NIST CSF to Security Controls Deficiencies Under | 
